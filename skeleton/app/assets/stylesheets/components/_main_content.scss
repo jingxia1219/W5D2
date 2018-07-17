@@ -1,0 +1,43 @@
+header {
+  font-weight: bold;
+}
+
+.small_header1 {
+  font-size: 16px;
+  font-weight: 400;
+  color: $gray;
+  margin-bottom: 5px;
+}
+.header1 {
+  width: 20%;
+  font-size: 26px;
+  font-family: georgia;
+  float: left;
+}
+
+.lauching-title:hover {
+  text-decoration: underline;
+  font-size: 28px;
+}
+
+.header1 li {
+  list-style: disc;
+  font-size: 20px;
+   line-height: 2;
+}
+
+.video {
+  margin: 20px;
+  display: inline;
+  float: left;
+  width: 36%;
+}
+
+.warning {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.body {
+  font-size: 20px;
+}

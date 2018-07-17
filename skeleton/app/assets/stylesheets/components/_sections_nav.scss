@@ -1,0 +1,17 @@
+.section_nav {
+  display:flex; 
+  justify-content: center;
+  
+}
+
+.section_nav li {
+  margin: 5px 10px;
+}
+
+.section_nav li:hover {
+  background-color: $gray;
+}
+
+.section_nav section li:hover {
+  text-decoration: underline;
+}
